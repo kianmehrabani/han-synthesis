@@ -1,0 +1,5 @@
+name: han
+channels:
+  - cantera
+dependencies:
+  - cantera
