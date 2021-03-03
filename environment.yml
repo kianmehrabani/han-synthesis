@@ -3,3 +3,6 @@ channels:
   - cantera
 dependencies:
   - cantera
+  - ipykernel
+  - matplotlib
+  - numpy
