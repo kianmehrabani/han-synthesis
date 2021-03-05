@@ -8,7 +8,7 @@ input-files: [species.inp]
 cantera-version: 2.5.1
 date: Fri, 26 Feb 2021 17:00:05 -0500
 
-units: {length: cm, time: s, quantity: mol, activation-energy: cal/mol}
+units: {length: m, time: s, quantity: mol, activation-energy: kJ/mol}
 
 phases:
 - name: gas
